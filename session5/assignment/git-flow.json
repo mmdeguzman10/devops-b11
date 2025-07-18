@@ -1,0 +1,140 @@
+{
+  "step1": {
+    "branch": "develop-story-bon-v1",
+    "directories":[
+      {
+        "name": "session5",
+        "directories": [
+          {
+            "name": "activity",
+            "files": [
+              {
+                "name": "bon-specs.yaml"
+              },
+              {
+                "name": "ian-specs.yaml"
+              }
+            ]
+          },
+          {
+            "name": "assignment",
+            "files": [
+              {
+                "name": "assign-inst.txt"
+              },
+              {
+                "name": "assign-inst.txt.bak"
+              },
+              {
+                "name": "git-flow.json"
+              }
+            ]
+          }
+        ],
+        "files": [
+          {
+            "name": "attendance.yaml"
+          }
+        ]
+      }
+    ],
+    "files": [
+      {
+        "name": "README.md"
+      }
+    ]
+  },
+  "step2": {
+    "branch": "develop-feature-v.1.0.0",
+    "directories":[
+      {
+        "name": "session5",
+        "directories": [
+          {
+            "name": "activity",
+            "files": [
+              {
+                "name": "bon-specs.yaml"
+              },
+              {
+                "name": "ian-specs.yaml"
+              }
+            ]
+          },
+          {
+            "name": "assignment",
+            "files": [
+              {
+                "name": "assign-inst.txt"
+              },
+              {
+                "name": "assign-inst.txt.bak"
+              },
+              {
+                "name": "git-flow.json"
+              }
+            ]
+          }
+        ],
+        "files": [
+          {
+            "name": "attendance.yaml"
+          }
+        ]
+      }
+    ],
+    "files": [
+      {
+        "name": "README.md"
+      }
+    ]
+  },
+  "step3": {
+    "branch": "develop",
+    "directories":[
+      {
+        "name": "session5",
+        "files": [
+          {
+            "name": "attendance.yaml"
+          },
+          {
+            "name": "bon-specs.yaml"
+          },
+          {
+            "name": "ian-specs.yaml"
+          }
+        ]
+      }
+    ],
+    "files": [
+      {
+        "name": "README.md"
+      }
+    ]
+  },
+  "step4": {
+    "branch": "master",
+    "directories":[
+      {
+        "name": "session5",
+        "files": [
+          {
+            "name": "attendance.yaml"
+          },
+          {
+            "name": "bon-specs.yaml"
+          },
+          {
+            "name": "mary-specs.yaml"
+          }
+        ]
+      }
+    ],
+    "files": [
+      {
+        "name": "README.md"
+      }
+    ]
+  }
+}
