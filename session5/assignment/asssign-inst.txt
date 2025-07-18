@@ -1,0 +1,26 @@
+assignment session5 (before next session)
+1. Create a new branch from develop-feature-v.1.0.0 with the name format of develop-story-<firstname>-v1
+
+example: develop-story-ian-v1
+
+2. Create a json file showing the flow of the git that we did for master, develop, and develop-feature-v.1.0.0 
+
+example:
+
+{
+	"git flow": {
+		"step1": {
+			"branch": "master",
+			"directory": "session5",
+			"files": [
+				"attendance.yaml",
+				"bon-specs.yaml",
+				"mary-specs.yaml"
+			]
+		}
+		"step2": "develop",
+}	
+
+3. Add the changes
+4. Commit the changes
+5. Push the changes to develop-story-<firstname>-v1
