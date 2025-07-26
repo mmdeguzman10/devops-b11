@@ -1,0 +1,15 @@
+{
+	"git flow": {
+		"Step1": {
+			"branch": "master",
+			"directory": "session5",
+			"files": [
+				"attendance.yaml"
+				"bon-specs.yaml"
+				"mary-specs.yaml"
+			]
+		}
+		"Step2": "develop",
+	}
+}
+
