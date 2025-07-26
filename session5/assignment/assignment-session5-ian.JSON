@@ -1,15 +1,44 @@
 {
-	"git flow": {
-		"Step1": {
-			"branch": "master",
-			"directory": "session5",
+	"git flow":{
+		"step1":{
+			"branch":"master",
+			"directory":"session5",
 			"files": [
-				"attendance.yaml"
-				"bon-specs.yaml"
+				"attendance.yaml",
+				"bon-specs.yaml",
 				"mary-specs.yaml"
 			]
 		}
-		"Step2": "develop",
+		"step2": {
+			"branch": "develop",
+			"directory": "session5",
+			"files": [
+				"attendance.yaml",
+				"bon-specs.yaml",
+				"ian-specs.yaml"
+			]
+		}
+		"step3":{
+			"branch": "develop-feature-v.1.0.0",
+			"directory": "session5",
+			"files": [
+				"directory": "activity",
+				"files": [
+					"bon-specs.yaml",
+					"ian-specs.yaml"
+				]
+				"directory": "assignment",
+				"files": [
+					"assign-inst.txt",
+					"assign-inst.txt.bak"
+				]
+				"attendance.yaml"
+				]
+		}
 	}
 }
+
+	
+
+
 
